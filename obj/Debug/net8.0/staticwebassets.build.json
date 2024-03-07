@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eKvGviuEbaUG55rMfLhIh/QcNOlWBIC519eqorcjPSE=",
+  "Source": "HelloWorldMinimalApi",
+  "BasePath": "_content/HelloWorldMinimalApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

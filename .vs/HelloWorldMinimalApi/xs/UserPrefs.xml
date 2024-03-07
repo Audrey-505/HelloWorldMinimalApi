@@ -1,0 +1,5 @@
+﻿<Properties StartupConfiguration="{07E99E60-9641-4AFD-BDAB-43D29BEAA418}|https">
+  <MonoDevelop.Ide.ItemProperties.HelloWorldTests FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.HelloWorldMinimalApi PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+</Properties>
